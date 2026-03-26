@@ -10,7 +10,7 @@
 
 **Momentum** is a visually stunning, modern single-page application (SPA) built with React and Vite. It serves as a "Digital Twin" for your productivity, allowing you to log daily activities, calculate your "Life Score", and gain deeper insights into how you spend your time through beautiful, interactive charts.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework:** React 18
 - **Build Tool:** Vite
