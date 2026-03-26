@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>☄️ Momentum</h1>
+  <h1>Momentum</h1>
   <p><strong>Your Productivity Digital Twin</strong></p>
   <p>A beautiful personal dashboard for tracking, visualizing, and analyzing your daily productivity and life score.</p>
 </div>
