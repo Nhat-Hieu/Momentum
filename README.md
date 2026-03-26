@@ -1,14 +1,14 @@
 <div align="center">
   <h1>☄️ Momentum</h1>
   <p><strong>My Productivity Digital Twin</strong></p>
-  <p>A professional SaaS dashboard for tracking, visualizing, and analyzing your daily productivity and life score.</p>
+  <p>A beautiful personal dashboard for tracking, visualizing, and analyzing your daily productivity and life score.</p>
 </div>
 
 ---
 
-## 🌟 Overview
+## Overview
 
-**Momentum** is a visually stunning, enterprise-grade single-page application (SPA) built with React and Vite. It serves as a "Digital Twin" for your productivity, allowing you to log daily activities, calculate your "Life Score", and gain deeper insights into how you spend your time through beautiful, interactive charts.
+**Momentum** is a visually stunning, modern single-page application (SPA) built with React and Vite. It serves as a "Digital Twin" for your productivity, allowing you to log daily activities, calculate your "Life Score", and gain deeper insights into how you spend your time through beautiful, interactive charts.
 
 ## ✨ Key Features
 
@@ -79,7 +79,7 @@ Momentum/
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your Light and Dark modes here to showcase the beautiful UI)*
+![alt text](image.png)
 
 ## 🤝 Contributing
 
